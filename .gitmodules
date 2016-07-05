@@ -1,0 +1,3 @@
+[submodule "edx-app-android"]
+	path = edx-app-android
+	url = git@github.com:edx/edx-app-android.git

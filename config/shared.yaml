@@ -1,0 +1,6 @@
+PLATFORM_NAME: 'WhiteLabelX'
+PLATFORM_DESTINATION_NAME: 'example.com'
+OAUTH_CLIENT_ID: ''
+API_HOST_URL: 'http://10.0.2.2:8000' # localhost is 10.0.2.2 in Android
+FEEDBACK_EMAIL_ADDRESS: 'whitelabel@example.com'
+ENVIRONMENT_DISPLAY_NAME: 'demo'
