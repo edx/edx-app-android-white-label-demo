@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="edx_brand_primary_base">#CB598D</color>
-    <color name="edx_brand_primary_dark">#8E4164</color>
+    <color name="edx_brand_primary_x_dark">#0B3400</color>
+    <color name="edx_brand_primary_dark">#065600</color>
+    <color name="edx_brand_primary_base">#007900</color>
+    <color name="edx_brand_primary_light">#53A400</color>
+    <color name="edx_brand_primary_x_light">#A6CF00</color>
+    <color name="edx_brand_primary_accent">#0EA600</color>
+    <color name="edx_brand_primary_x_accent">#00AB00</color>
+    <color name="edx_brand_secondary_x_dark">#502900</color>
+    <color name="edx_brand_secondary_dark">#8E4100</color>
+    <color name="edx_brand_secondary_base">#CB5900</color>
+    <color name="edx_brand_secondary_light">#DB8F00</color>
+    <color name="edx_brand_secondary_x_light">#EBC500</color>
+    <color name="edx_brand_secondary_accent">#F26C00</color>
 </resources>
